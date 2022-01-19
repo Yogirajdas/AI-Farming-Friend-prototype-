@@ -50,7 +50,7 @@ Trainable params: 38,038
 Non-trainable params: 8,062,504
 
 Here InceptionV3 or ResNet can also be used for better performance of prediction. 
-Laterwards web interface can be built with angular, express or Django, flask framework to host application.
+Laterwards web interface can be built with angular, express or Django, flask framework to deploy application.
 
 
 
